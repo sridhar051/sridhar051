@@ -331,7 +331,7 @@ src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a8
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sridhar-kandi175141/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sridhar-kandi-932981181/)
 
 <br>
 
