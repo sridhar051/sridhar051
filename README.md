@@ -12,11 +12,11 @@ src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-s
 src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 <br>
 
-- 🌱 **I’m currently learning:** NLP, MLOPS,
+- 🌱 **I’m currently learning:** Large Language models, NLP, MLOPS,
 
 - 💬 **Ask me about:** Data Science, Data Analysis, Data Engineering, Machine Learning, Deep Learning, MLOps
 
-- 📫 **How to reach me:** CN54533@umbc.edu
+- 📫 **How to reach me:** sridharkandi@umbc.edu
 
 - ⚡ **Fun fact:** Data scientists spend about 80% of their time cleaning and preparing data, and only 20% of their time actually analyzing it. So, if you think data science is all about making groundbreaking discoveries, think again—it's mostly about scrubbing dirty data!
 
